@@ -17,7 +17,7 @@ Program KalkulatorKu adalah aplikasi sederhana untuk melakukan operasi matematik
 4. Pengguna memiliki opsi untuk mengulang perhitungan atau mengakhiri program.
 
 ## Contoh Penggunaan
-Misalnya, untuk menjumlahkan 5 dan 3:
+Misalnya, untuk menjumlahkan 10 dan 4:
 ```plaintext
 +----------------------------------------------+
 Selamat Datang Di KalkulatorKu! :D
