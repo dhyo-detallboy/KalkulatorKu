@@ -22,11 +22,13 @@ Misalnya, untuk menjumlahkan 5 dan 3:
 +----------------------------------------------+
 Selamat Datang Di KalkulatorKu! :D
 +----------------------------------------------+
-Masukan angka pertama : 2
-Masukan angka kedua : 2
-operasi yg ingin dilakukan : 2
+Masukan angka pertama : 10
+Masukan angka kedua : 4
+operasi yg ingin dilakukan : 1
 +----------------------------------------------+
-0
+14
 +----------------------------------------------+
-Ingin Menghitung Lagi? : (ya/tidak)
+Ingin Menghitung Lagi? : tidak
++----------------------------------------------+
+Terima kasih Sudah Menggunakan Aplikasi Ini!
 
